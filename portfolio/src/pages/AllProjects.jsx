@@ -13,7 +13,7 @@ import {
   Title,
   Loading,
 } from "../components/globalStyledComponents";
-import AllProjectsNavBar from "../components/SecondaryNavBar";
+import AllProjectsNavBar from "../components/SecondaryNavbBar";
 import StyledCard from "../components/StyledCard";
 import Footer from "../components/Footer";
 

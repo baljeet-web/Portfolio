@@ -5,7 +5,7 @@ import Logo from "../images/logo.svg";
 // Components
 import { Container } from "react-bootstrap";
 import { Spin } from "../components/globalStyledComponents";
-import NotFoundNavBar from "../components/SecondaryNavBar";
+import NotFoundNavBar from "../components/SecondaryNavbBar";
 
 const StyledNotFound = styled.main`
   display: flex;
